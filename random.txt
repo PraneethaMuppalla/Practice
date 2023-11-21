@@ -6,3 +6,4 @@ Not sure random text
 Not in this version but in the next major version.
 
 Thank You
+new changes are bug free now
